@@ -33,3 +33,14 @@ jupyter notebook Quadcopter_Project.ipynb
 5. Before running code, change the kernel to match the `quadcop` environment by using the drop-down menu (**Kernel > Change kernel > quadcop**). Then, follow the instructions in the notebook.
 
 6. You will likely need to install more pip packages to complete this project.  Please curate the list of packages needed to run your project in the `requirements.txt` file in the repository.
+
+
+## Fontes
+
+- https://github.com/harshitandro/RL-Quadcopter
+- https://github.com/amihalik/RL-Quadcopter-2
+- https://github.com/letsgogeeky/QuadCopter-RL
+- https://github.com/yaragg/MAC0425-Inteligencia-Artificial
+- https://github.com/tyagodms/grid_Q-learning
+- https://towardsdatascience.com/reinforcement-learning-with-python-8ef0242a2fa2
+- https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/
